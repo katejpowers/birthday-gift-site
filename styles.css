@@ -80,8 +80,9 @@ h1 {
 #cuddly:hover {
     background-image: url("images/cuddly.gif");
 }
-#corgi:hover {
-    background-image: url("images/corgi.gif");
+
+#frenchie:hover {
+    background-image: url("images/flying-frenchie.gif");
 }
 
 #footer {
